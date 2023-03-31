@@ -1,3 +1,3 @@
-"Bonjour, je m’appelle" + Francis
+"Bonjour, je m’appelle" Francis
 
-Et je suis un vrai bg
+Le ciel est bleu
